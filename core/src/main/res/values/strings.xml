@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launches_title">Launches</string>
+    <string name="rocket_label">Rocket:</string>
+    <string name="mission_label">Mission:</string>
+    <string name="site_label">Launch Site:</string>
+    <string name="error_network">No internet connection</string>
+    <string name="error_unknown">An unexpected error occurred</string>
+    <string name="retry_button">Retry</string>
+    <string name="loading">Loading...</string>
+    <string name="no_more_data">No more launches</string>
+</resources>

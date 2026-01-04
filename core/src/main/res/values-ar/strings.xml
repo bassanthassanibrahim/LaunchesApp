@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launches_title">الرحلات</string>
+    <string name="rocket_label">الصاروخ:</string>
+    <string name="mission_label">المهمة:</string>
+    <string name="site_label">موقع الإطلاق:</string>
+    <string name="error_network">عفواً، لا يوجد اتصال بالإنترنت</string>
+    <string name="error_unknown">حدث خطأ غير متوقع</string>
+    <string name="retry_button">إعادة المحاولة</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="no_more_data">لا يوجد المزيد من الرحلات</string>
+</resources>
